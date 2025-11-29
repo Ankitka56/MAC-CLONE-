@@ -72,12 +72,6 @@ And many more, including code architecture and reusability.
 
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
-```bash
-git clone https://github.com/adrianhajdin/gsap_macbook_landing.git
-cd gsap_macbook_landing
-```
-
 **Installation**
 
 Install the project dependencies using npm:
